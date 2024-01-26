@@ -13,7 +13,9 @@
 			"esp_rom_gpio.h": "c",
 			"ir_tools.h": "c",
 			"rmt.h": "c",
-			"dht.h": "c"
+			"dht.h": "c",
+			"rmt_tx.h": "c",
+			"rmt_types.h": "c"
 		}
 	}
 }

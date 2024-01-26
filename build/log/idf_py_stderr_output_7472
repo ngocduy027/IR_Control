@@ -1,0 +1,12 @@
+Compiler supported targets: xtensa-esp32-elf
+
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/component.cmake:313 (message):
+  Include directory
+  'D:/School_Work/20231/KTVXL/IR_Control/components/dht/components/dht' is
+  not a directory.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.1.2/tools/cmake/component.cmake:481 (__component_add_include_dirs)
+  components/dht/CMakeLists.txt:7 (idf_component_register)
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed

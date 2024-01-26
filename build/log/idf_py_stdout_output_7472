@@ -1,0 +1,21 @@
+[0/1] Re-running CMake...
+-- ccache will be used for faster recompilation
+-- Building ESP-IDF components for target esp32
+Processing 2 dependencies:
+[1/2] eil/esp_idf_lib_helpers (1.2.1)
+[2/2] idf (5.1.2)
+-- Project sdkconfig file D:/School_Work/20231/KTVXL/IR_Control/sdkconfig
+-- App "main" version: 5d03083-dirty
+-- Adding linker script D:/School_Work/20231/KTVXL/IR_Control/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script D:/Espressif/frameworks/esp-idf-v5.1.2/components/soc/esp32/ld/esp32.peripherals.ld
+-- Configuring incomplete, errors occurred!
+See also "D:/School_Work/20231/KTVXL/IR_Control/build/CMakeFiles/CMakeOutput.log".
+FAILED: build.ninja 
+D:\Espressif\tools\cmake\3.24.0\bin\cmake.exe --regenerate-during-build -SD:\School_Work\20231\KTVXL\IR_Control -BD:\School_Work\20231\KTVXL\IR_Control\build

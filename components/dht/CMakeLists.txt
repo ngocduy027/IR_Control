@@ -6,6 +6,9 @@ endif()
 
 idf_component_register(
     SRCS dht.c
-    INCLUDE_DIRS .
+    INCLUDE_DIRS
+        .
+        #${IDF_PATH}/components/driver/deprecated/driver
+        #components/dht
     REQUIRES ${req}
 )

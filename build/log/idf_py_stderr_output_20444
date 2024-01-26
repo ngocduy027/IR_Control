@@ -1,0 +1,15 @@
+Compiler supported targets: xtensa-esp32-elf
+
+CMake Error at components/dht/CMakeLists.txt:7 (idf_component_register):
+  Syntax error in cmake code at
+
+    D:/School_Work/20231/KTVXL/IR_Control/components/dht/CMakeLists.txt:13
+
+  when parsing string
+
+    D:\School_Work\20231\KTVXL\IR_Control\components\dht
+
+  Invalid character escape '\S'.
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed

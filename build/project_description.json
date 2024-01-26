@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "main",
-    "project_version":    "3e7ac7b-dirty",
+    "project_version":    "5d03083-dirty",
     "project_path":       "D:/School_Work/20231/KTVXL/IR_Control",
     "idf_path":           "D:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "D:/School_Work/20231/KTVXL/IR_Control/build",

@@ -4,6 +4,7 @@
 
 #include "components\dht\dht.h"
 
+
 #define IR_TX_PIN GPIO_NUM_4  
 #define IR_RX_PIN GPIO_NUM_5  
 
